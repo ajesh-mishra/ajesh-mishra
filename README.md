@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Ajesh.
 - 👀  I work as an Infrastructure Engineer in my day job and I am intrested in Programming Languages. 
 I use Shell and Batch Script as part of Admin work in my day job.
-I dabble with Python, JavaScript and front-end stuff like React, HTML and CSS.
+I dabble in Python, JavaScript and front-end stuff like React, HTML and CSS for fun.
 - 🌱  I’m currently learning React for front-end and Flask for backend.
 - 💞️  Since, I consider myself as a programming enthusiast, I’m looking to collaborate with people where I can find learning oppertunities.
 - 📫  
